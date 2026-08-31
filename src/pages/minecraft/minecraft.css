@@ -1,0 +1,22 @@
+header {
+    background-image: url();
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border: #D9A441 solid 5px;
+    transform: scale(1.1);
+
+    text-align: center;
+    align-content: center;
+    height: 30vh;
+
+    h1 {
+        font-size: 3em;
+    }
+}
+
+p {
+    font-size: 2em;
+    margin: 5%;
+}

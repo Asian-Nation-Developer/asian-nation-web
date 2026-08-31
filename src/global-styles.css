@@ -1,0 +1,15 @@
+body {
+    background: #f7f1e5;
+    font-family: monospace;
+    margin: 0px;
+    color: #202124;
+    overflow-x: hidden;
+}
+
+h1, h2 {
+    color: #C83E3E;
+}
+
+p {
+    color:#202124;
+}
