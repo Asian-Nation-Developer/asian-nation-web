@@ -1,5 +1,5 @@
-# build output
-dist/
+# we need this folder
+#dist/
 
 # generated types
 .astro/
