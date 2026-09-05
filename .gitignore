@@ -1,5 +1,4 @@
-# we need this folder
-#dist/
+dist/
 
 # generated types
 .astro/
